@@ -1,5 +1,5 @@
 ## About:
-A simple python script to automate sending emails to multiple persons, can be used by university studentswho want to
+A simple python script to automate sending emails to multiple persons, can be used by university students who want to
 send multiple job applications emails
 
 ## usage
